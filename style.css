@@ -1,0 +1,69 @@
+*{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+
+  }
+.navs{
+      display: flex;
+   
+}
+.navs ul{
+      display: inline-flex;
+   
+
+}
+.navs ul li {
+      padding-left:  600px;
+      list-style: none;
+      text-decoration: none;
+      font-size: 20px;
+    
+}
+.navs ul li a{
+      color:navy;
+      text-decoration: none;
+  
+}
+.wineCollection{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+}
+.wineCollection h2{
+      color:black ;
+}
+span{ color: black;}
+
+.navs h1{
+      font-size: 30px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: gold;
+}
+
+body{
+      background-image:url("beer1.j") ;
+      background-repeat: no-repeat;
+      background-size: cover;
+      z-index:-1 ;
+      opacity: .8;
+}
+.view-all{
+      display: flex;
+      text-decoration: none;
+      font-size: 30px;
+     
+
+}
+.view-all a{
+      font-weight: 600;
+      font-style: inherit;
+      color:orchid;
+      text-decoration: none;
+      letter-spacing: 1px;
+      
+      
+
+}
