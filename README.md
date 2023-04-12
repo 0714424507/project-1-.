@@ -28,6 +28,28 @@ The Beer Dictionary app is an app that helps a customer in deciding which drink 
 
 5.An index.js file
 
+### Getting Files
+
+fork the repo
+
+Create a new branch in your terminal
+
+Install the prerequisites
+
+Make appropriate changes in file(s)
+
+Run the server to see the changes
+
+Add the changes and commit them (git commit -m ""
+
+Push to the branch
+
+Create a Pull request
+
+
+
+
+
 
 
 ## livelink
