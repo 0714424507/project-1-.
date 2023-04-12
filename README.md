@@ -4,7 +4,7 @@
 
 ## Project Description
 
-The Beer Dictionary app is an app that helps a customer in deciding which drink to take.The customer has an option of either viewing all the available beers ,click on them to see their details and also the customer has option of searching their favorite or most preffered beer.The beer data has information abouth the beers ranging from the year of manufacture to a reccomended food accompliment.
+The Beer Dictionary app is an app that helps a customer in deciding which drink to take.The customer has an option of either viewing all the available beers ,click on them to see their details and also the customer has option of searching their favorite or most preffered beer.The beer data has information abouth the beers ranging from the year of manufacture to a reccomended food accompliment.The search button is on the top right side.
 
  ## Screenshots
 
