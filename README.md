@@ -67,7 +67,12 @@ https://resonant-bavarois-e8b3fe.netlify.app/
 
 Email: muhurimwangi002@gmail.com
 
-## [License] (LICENSE)
+## [License] 
+
+MIT license
+
+Copyright (c) 2023 Humphrey Muhuri
+
 
 
 
