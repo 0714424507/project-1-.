@@ -14,28 +14,29 @@
 
 }
 .navs ul li {
-      padding-left:  600px;
+      padding-left:  400px;
       list-style: none;
       text-decoration: none;
       font-size: 20px;
     
 }
 .navs ul li a{
-      color:navy;
+      color:gold;
       text-decoration: none;
+      font-size: 60px;
   
 }
 .wineCollection{
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 150px;
       flex-direction: column;
 }
 .wineCollection h2{
-      color:black ;
+      color:gold ;
 }
-span{ color: black;}
+span{ color: gold;}
 
 .navs h1{
       font-size: 30px;
@@ -44,7 +45,7 @@ span{ color: black;}
 }
 
 body{
-      background-image:url("beer1.j") ;
+      background-image:url("bottlemm.jpg") ;
       background-repeat: no-repeat;
       background-size: cover;
       z-index:-1 ;
@@ -60,10 +61,14 @@ body{
 .view-all a{
       font-weight: 600;
       font-style: inherit;
-      color:orchid;
+      color:gold;
       text-decoration: none;
       letter-spacing: 1px;
-      
-      
-
+}
+#beers{
+      background-color: antiquewhite;
+      color: goldenrod;
+}
+.wineCollection p{
+      color: gold;
 }
