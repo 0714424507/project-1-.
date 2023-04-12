@@ -1,6 +1,6 @@
 # THE BEER DICTIONARY
 
-### author  : Humphrey muhuri 10th,april 2023
+### Author  : Humphrey muhuri 10th,april 2023
 
 ## Project Description
 
@@ -14,7 +14,22 @@ The Beer Dictionary app is an app that helps a customer in deciding which drink 
 
  ![Screenshot from 2023-04-12 13-04-54](https://user-images.githubusercontent.com/127226487/231433714-e8454fb9-51a3-49ea-8d40-35d43d460c55.png)
 
- 
+## Setup Instructions
+
+### requiremnts
+
+1.A public API
+
+2.text editor 
+
+3.HTML file
+
+4.CSS file
+
+5.An index.js file
+
+
+
 ## livelink
 
 https://resonant-bavarois-e8b3fe.netlify.app/
