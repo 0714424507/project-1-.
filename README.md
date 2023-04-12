@@ -22,11 +22,6 @@ The Beer Dictionary app is an app that helps a customer in deciding which drink 
 
 2.text editor 
 
-3.HTML file
-
-4.CSS file
-
-5.An index.js file
 
 ### Getting Files
 
@@ -46,10 +41,9 @@ Push to the branch
 
 Create a Pull request
 
+## How to run it
 
-
-
-
+open the live server to run the app
 
 
 ## livelink
