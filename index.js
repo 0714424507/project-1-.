@@ -39,6 +39,15 @@ function beerDetails (id){
   });
 
 }
-function searchResults(){
-  
+function searchResults(form){
+  e.preventDefault();
+  console.log("search form clicked", form)
+  let keyword= form.element.keyword.value;
+  console.log("keyword value", keyword)
+  fetch("https://api.punkapi.com/v2/beers?beer_name=" + keyword)
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data);
+  })
+
 }
