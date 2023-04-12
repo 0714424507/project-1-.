@@ -79,3 +79,16 @@ body{
 .list{
       color: blue;
 }
+
+#keyword{
+      font-size: 30px;
+      background-color: rgb(128, 255, 0);
+      color:brown;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+      
+#search{
+      background-color: rgb(128, 255,0);
+      color: brown;
+      font-size: 30px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
